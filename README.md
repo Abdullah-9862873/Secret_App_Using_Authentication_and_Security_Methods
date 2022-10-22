@@ -1,1 +1,3 @@
 # Secret_App_Using_Authentication_and_Security_Methods
+
+I have used all the advanced concepts of Authentication and Security and I have enabled this app to login using google or facebook too using OAuth Passportjs and consoleGoogleDevelopers and FacebookDeveloperApps... Also I enabled this app to see all the secrets of the anonymous users...
